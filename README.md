@@ -1,4 +1,5 @@
 # HackerHank-SQL
 
 
-Exercícios resolvidos da plataforma Hackerrank
+Exercícios resolvidos da plataforma HackeRank.
+
