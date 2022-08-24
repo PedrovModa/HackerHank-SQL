@@ -13,7 +13,8 @@ The CITY table is described as follows:
 
 **SOLUÇÃO**
 
-
+```sql
 SELECT *
 FROM CITY
 WHERE COUNTRYCODE = 'JPN'
+```
