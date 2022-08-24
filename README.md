@@ -1,5 +1,5 @@
 # HackerHank-SQL
 
 
-Exercícios resolvidos da plataforma HackeRank.
+Minhas soluções para diversos problemas de SQL da plataforma HACKERRANK utilizando MySQL.
 
