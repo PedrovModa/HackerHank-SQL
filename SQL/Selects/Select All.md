@@ -2,6 +2,8 @@ Query all columns (attributes) for every row in the CITY table.
 
 The CITY table is described as follows:
 
+
+
 |  Field | Type |
 |---|---|
 | ID  | NUMBER |
@@ -10,7 +12,11 @@ The CITY table is described as follows:
 | DISTRICT |  VARCHAR2(20) |
 | POPULATION | NUMBER |
 
+
+
 **SOLUÇÃO**
+
+
 
 SELECT *
 FROM CITY
